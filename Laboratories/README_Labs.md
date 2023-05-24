@@ -11,6 +11,38 @@ To run the code provided during classes (laboratories) you'll need:
 * [Git](https://git-scm.com/)
 
 ---
+**Preparing working environment**
+
+Make sure you have [Julia](https://julialang.org/downloads/) installed.
+The course was prepared under Julia 1.8.2.
+
+1. Clone the repository to a local folder on your computer:
+```shell
+git clone https://github.com/KrainskiL/SLM_S2023.git
+```
+2. Start Julia in your local folder:
+```shell
+cd SLM_S2023
+julia --project
+```
+3. Run the following commands in the Julia REPL:
+```julia
+using Pkg
+Pkg.instantiate()
+Pkg.status()
+```
+4. Start Jupyter Notebook with:
+```julia
+using IJulia
+notebook(dir=pwd())
+```
+---
+**Lecturers**
+
+* lecturer: Bogumił Kamiński
+* laboratories: Łukasz Kraiński
+
+---
 ### Issues and answers
 
 If you encounter issues starting Julia from the terminal on a Mac and receive error messages like 
