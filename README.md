@@ -1,8 +1,5 @@
 # SLM Spring 2022/23
 
-###### This SGH-SLM repository contains files and codes used in SLM labs and lectures taught and published by Professors Bogumił Kamiński, Łukasz Kraiński, Bartosz Pankratz, Daniel Kaszyński, Mateusz Zawisza. In addition to serving as a personal notepad to enhance my understanding, this repository also includes some of the homework and additional work I have completed for in-depth analysis. It provides a glimpse into the efforts I have made to delve deeper into the subject matter.
-
-
 **Required software**
 
 During the course we'll use Jupyter Notebook with Julia. 
