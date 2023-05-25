@@ -1,5 +1,7 @@
 # SLM Spring 2022/23
 
+###### This SGH-SLM repository contains files and codes used in SLM labs and lectures taught and published by Professors Bogumił Kamiński, Łukasz Kraiński, Bartosz Pankratz, Daniel Kaszyński, Mateusz Zawisza. In addition to serving as a personal notepad to enhance my understanding, this repository also includes some of the homework and additional work I have completed for in-depth analysis. It provides a glimpse into the efforts I have made to delve deeper into the subject matter.
+
 **Required software**
 
 During the course we'll use Jupyter Notebook with Julia. 
@@ -7,13 +9,10 @@ To run the code provided during classes you'll need:
 * [Julia](https://julialang.org/downloads/)
 * [Jupyter](https://jupyter.org/install) Notebook or Jupyter Lab
 * [Git](https://git-scm.com/)
-
 ---
 **Preparing working environment**
-
 Make sure you have [Julia](https://julialang.org/downloads/) installed.
 The course was prepared under Julia 1.8.2.
-
 1. Clone the repository to a local folder on your computer:
 ```shell
 git clone https://github.com/KrainskiL/SLM_S2023.git
@@ -36,15 +35,6 @@ notebook(dir=pwd())
 ```
 
 ---
-**Contact**
-
-Name: Łukasz Kraiński
-
-Email: lkrain@sgh.waw.pl
-
-Consultations: 08:00 - 9:40 G-116 Thursdays
-
----
 **Lecturers**
 
 * lecturer: Bogumił Kamiński
@@ -53,9 +43,9 @@ Consultations: 08:00 - 9:40 G-116 Thursdays
 ---
 **Schedule**
 
-* lectures: Mondays, 9:50-11:30, Aula III
-* laboratories: Thursdays, according to laboratory group, G-116
-
+* lectures: Mondays, 9:50-11:30
+* laboratories: Thursdays, according to laboratory group
+* 
 ---
 **Lectures**
 
