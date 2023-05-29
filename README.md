@@ -41,12 +41,6 @@ notebook(dir=pwd())
 * laboratories: Łukasz Kraiński
 
 ---
-**Schedule**
-
-* lectures: Mondays, 9:50-11:30
-* laboratories: Thursdays, according to laboratory group
-* 
----
 **Lectures**
 
 |     Date          |     Subject                                                                      |
@@ -94,30 +88,6 @@ Gareth  J.,  Witten  D.,  Hastie  T.,  Tibshirani  R.  (2021),  [An  Introductio
 Hastie T., Tibshirani R., Friedman J. (2017), [The Elements of Statistical Learning](http://www-stat.stanford.edu/~tibs/ElemStatLearn/)
 
 William E. Shotts (2019), [Linux Command Line](https://linuxcommand.org/lc3_learning_the_shell.php)
-
----
-**Course evaluation criteria**
-
-* Theoretical examination on last lecture (50 points)
-* Practical test on last laboratory (50 points)
-    * Test is conducted during the last laboratory. The time to complete the test is 90 minutes. Test file (Jupyter notebook containing set of tasks) will be shared through MS Teams group just before the class. The test is conducted in Julia language and all types of didactic materials can be used during evaluation (notes, documentation, notebooks from the course, etc.). The test is an individual evaluation, hence communication with other students during the test is prohibited. Filled notebook should be sent to lkrain@sgh.waw.pl before the end of the class - please put your index number in the title of the notebook file. Test results will be shared through MS Teams.
-
-* Extra points:
-    * Homework
-    * Laboratory competition
-    * Completion of course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points)
-
-
----
-**Grading rules**
-|From |To|Final grade|
-|-----|--|--------|
-|0 |49| 2.0|
-|50 |59 |3.0|
-|60 |69 |3.5|
-|70 |79 |4.0|
-|80 |89 |4.5|
-|90 |100 |5.0|
 
 ---
 
